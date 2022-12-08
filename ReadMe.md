@@ -17,7 +17,7 @@ In the package `partA.ex01` look at the file `ComputeTime`.
     * Run the program with your IDE's debugger to debug
       this program: :
       * Set the breakpoint in the getDistance method
-      * Press Step In to go to the next line
+      * Press “Step In” (blue downward pointing arrow in the ‘Terminal’ window) to go to the next line.
       * Observe the values of the x1, x2, y1, y2, speed, distance, and
         time variables
     * Can you identify the bug? 
@@ -43,8 +43,3 @@ In the package `partA.ex02` look at the file `BoundaryTesting`.
 | 1583 | 12    |
 
 
-## Part B
-
-### Exercise 01
-
-#### Step 01
